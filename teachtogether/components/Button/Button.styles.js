@@ -31,7 +31,7 @@ export const SubmitButton = styled(StyledButton).attrs({
 })`
   box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
   &:active{
-    background-color: &{(props) => 
+    background-color: ${(props) => 
        props.variant === "outline" ? "black" : "4caf50"};
         transform: translateY(2px);
   }
