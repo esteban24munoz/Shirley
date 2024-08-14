@@ -1,2 +1,2 @@
-# CODSOFT
-Web Development internship
+# Shirley Program
+Web App for teachers
